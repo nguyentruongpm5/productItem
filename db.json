@@ -1,0 +1,61 @@
+{
+  "product": [
+    {
+      "product_id": 1,
+      "product_name": "husky",
+      "product_sku ": null,
+      "product_status": "Cập nhật thành công",
+      "product_decription": null,
+      "product_image": "https://www.sapo.vn/Themes/Portal/Default/Styles_New/Images/logo/Sapo-logo.svg?v=201812260108",
+      "product_image_list": [
+        "https://www.sapo.vn/Themes/Portal/Default/Styles_New/Images/logo/Sapo-logo.svg?v=201812260108",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwl4vk1O61TsNOfjTY1DjpmnKbNHT0xVH3an1hEjp7JeSDTkIp",
+        "https://www.nestle.com.au/sites/g/files/pydnoa356/files/asset-library/publishingimages/miloarticle.jpg"
+      ],
+      "currency": null,
+      "discount_price": null,
+      "stock": null,
+      "original_price": null,
+      "weight": null,
+      "category_id": null
+    },
+    {
+      "product_id": 2,
+      "product_name": "doraemon",
+      "product_sku ": null,
+      "product_status": "Cập nhật thành công",
+      "product_decription": null,
+      "product_image": "https://www.sapo.vn/Themes/Portal/Default/Styles_New/Images/logo/Sapo-logo.svg?v=201812260108",
+      "product_image_list": [
+        "https://www.sapo.vn/Themes/Portal/Default/Styles_New/Images/logo/Sapo-logo.svg?v=201812260108",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwl4vk1O61TsNOfjTY1DjpmnKbNHT0xVH3an1hEjp7JeSDTkIp",
+        "https://www.nestle.com.au/sites/g/files/pydnoa356/files/asset-library/publishingimages/miloarticle.jpg"
+      ],
+      "currency": null,
+      "discount_price": null,
+      "stock": null,
+      "original_price": null,
+      "weight": null,
+      "category_id": null
+    },
+    {
+      "product_id": 3,
+      "product_name": "Sapo",
+      "product_sku ": null,
+      "product_status": "Cập nhật thành công",
+      "product_decription": null,
+      "product_image": "https://www.sapo.vn/Themes/Portal/Default/Styles_New/Images/logo/Sapo-logo.svg?v=201812260108",
+      "product_image_list": [
+        "https://www.sapo.vn/Themes/Portal/Default/Styles_New/Images/logo/Sapo-logo.svg?v=201812260108",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwl4vk1O61TsNOfjTY1DjpmnKbNHT0xVH3an1hEjp7JeSDTkIp",
+        "https://www.nestle.com.au/sites/g/files/pydnoa356/files/asset-library/publishingimages/miloarticle.jpg"
+      ],
+      "currency": null,
+      "discount_price": null,
+      "stock": null,
+      "original_price": null,
+      "weight": null,
+      "category_id": null
+    }
+  ]
+}
